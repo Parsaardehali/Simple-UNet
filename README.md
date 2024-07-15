@@ -20,3 +20,9 @@ Inspired by that, I've created (what I believe) to be even simpler and quite eas
 - [ ]  Add other losses.
 - [ ]  Add a real world dataset. (Maybe: Medical Segmentation Decathlon (MSD))
 - [ ]  Add more variants. Example Res-U-Net.
+
+## Contribution:
+
+Code -- Me: 80%, LLMs: 20%
+
+Documentation -- Me: 1%, LLMs 99%.
