@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     # Hyperparameters
     batch_size = 16
-    num_epochs = 5
+    num_epochs = 50
     learning_rate = 0.001
 
     # MedDecathalon dataset Task04_Hippocampus
